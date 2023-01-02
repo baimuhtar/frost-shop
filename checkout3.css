@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', serif;
+}
+
+.bg-color-checkout-3 {
+    background-color: #E5E5E5;;
+}
+
+.margin-checkout {
+    display: flex;
+    margin-left: 110px;
+}
+
+.title-checkout-top {
+    font-weight: 400;
+    font-size: 36px;
+    margin-top: 58px;
+    margin-bottom: 39px;
+    margin-right: 44px;
+}
+
+.stages-checkout-completion-4 {
+    height: 19px;
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    color: #9E9E9E;
+    margin-top: 66px
+}
+
+.checkout-basket {
+    background-image: url("icons/image2.png");
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0
+
+}
+
+.checkout-contact-details {
+    background-image: url("icons/image2.png");
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0
+
+}
+
+.checkout-delivery {
+    background-image: url("icons/image-blue.png");
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+    color: white;
+}
+
+.checkout-completion {
+    background-image: url("icons/image2.png");
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+}
+
+.box-delivery {
+    background: white;
+    width: 912px;
+    height: 355px;
+    padding-top: 60px;
+    padding-left: 55px;
+    margin-left: 110px;
+}
+
+.title-delivery {
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.flex-box {
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+}
+
+.left-data {
+    display: flex;
+    flex-direction: column;
+}
+
+.region-text {
+    height: 35px;
+    width: 400px;
+}
+
+.city-or-town {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+}
+
+.city-text {
+    margin-top: 10px;
+    width: 400px;
+    height: 35px;
+}
+
+.right-data {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.street-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.street-text {
+    margin-top: 10px;
+    height: 35px;
+}
+
+.house {
+    display: flex;
+    margin-top: 25px;
+}
+
+.house-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.house-text {
+    margin-right: 40px;
+    margin-top: 10px;
+    height: 35px;
+
+}
+
+.flat-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.flat-text {
+    margin-top: 10px;
+    height: 35px;
+
+}
+
+
+.btn-delivery {
+    background: #2156BD;
+    border: none;
+    width: 350px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 725px;
+    margin-bottom: 20px;
+}
+
+.button-delivery {
+    color: white;
+    background: #2156BD;
+    border: none;
+}
+
+
+
+
+
+
+

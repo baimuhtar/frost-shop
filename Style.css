@@ -1,0 +1,300 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+.header-menu {
+    background-color: #1E1E1E;
+}
+
+.container {
+    /*margin: 0 375px;*/
+    margin: 0 100px;
+}
+
+.menu-items {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding: 20px 20px;
+    align-items: center;
+}
+
+.city {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.log-in-main {
+}
+
+.login {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    color: #E4E4E4;
+    line-height: 30px;
+}
+
+.number {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.search-form {
+    border: 1px solid #6A6A6A;
+    display: inline-flex;
+    padding: 0 10px;
+    height: 30px;
+    overflow: hidden;
+    background-color: rgba(71, 71, 71, 1);
+}
+
+.search-form-txt {
+    width: 200px;
+    font-size: 16px;
+    padding-right: 10px;
+    background-color: rgba(71, 71, 71, 1);
+    border: none;
+    overflow: hidden;
+    height: 30px;
+}
+
+.search-form-btn {
+    border: none;
+    background-color: rgba(71, 71, 71, 1);
+
+}
+
+.search-form-image {
+    display: flex;
+    cursor: pointer;
+}
+
+.cart_img {
+    z-index: 0;
+}
+
+.number2 {
+    z-index: 50;
+    position: absolute;
+    /*right: 385px;*/
+    right: 115px;
+
+
+}
+
+.main-image {
+    background-image: url("/banner/banner01.png");
+    padding-top: 470px;
+    margin-top: -7px;
+}
+
+.main {
+    margin-top: -450px;
+    color: #fff;
+}
+
+.compressor {
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.compressor-text {
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.border-category {
+    border: solid 1px #E5E5E5;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.box-category {
+    display: flex;
+    justify-content: center;
+    /*margin-right: 300px;*/
+    margin-right: 150px;
+
+}
+
+.select-category {
+    padding: 20px 20px;
+    color: #000000;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.checkbox {
+    position: absolute;
+    /*right: 580px;*/
+    right: 200px;
+    top: 655px;
+}
+
+.checkbox-label {
+    padding: 10px 10px;
+}
+
+
+.have-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selector {
+    /*width: 200px;*/
+    border: solid 1px #D3D3D3;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px 10px;
+    width: 350px;
+}
+
+.cards {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    flex-direction: row;
+
+
+}
+
+.images-1 {
+    border: solid 1px #E5E5E5;
+    background-color: #fff;
+    height: 420px;
+    width: 370px;
+}
+
+.top-images {
+    padding-left: 30px;
+    padding-top: 19px;
+    height: 191px;
+    width: 308px;
+    left: 31px;
+    top: 19px;
+
+
+}
+
+.compress-title {
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 45px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    margin-top: -20px;
+
+    /*height: 40px;*/
+    width: 370px;
+
+
+}
+
+.buy-button {
+    text-decoration: none;
+    margin-right: 30px;
+    background-color: #2156BD;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 40px;
+    width: 160px;
+    border: none;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+.page-buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.page {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/*page:hover {*/
+/*  background-color: #2156BD;*/
+/*}*/
+
+.numbers {
+    text-decoration: none;
+    color: #2C2C2C;
+    font-weight: 600;
+    font-size: 16px;
+    border: 2px solid #E5E5E5;
+    padding: 5px 10px;
+}
+
+.numbers:hover {
+    color: #fff;
+    background-color: #2156BD;
+}
+
+.number:active {
+    opacity: 0.8;
+}
+
+.arrow {
+    padding-left: 5px;
+}
+
+.down-line {
+    background-color: #131313;
+    padding: 50px 0;
+}
+
+.down-box {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact-img {
+    padding-right: 10px;
+}
+
+.social {
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+}
+
+.frost {
+    padding-left: 20px;
+    text-align: center;
+}
+
+.city2 {
+    padding-left: 10px;
+}
+
+.contacts1 {
+    color: #9A9A9A;
+    display: flex;
+}
+
+.number3 {
+    color: #fff;
+}
+
+
+
+

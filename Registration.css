@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', serif;
+}
+
+.header-Reg {
+    background-color: #D3D3D3;
+    padding: 50px;
+}
+
+.container-Reg {
+    height: 460px;
+    width: 600px;
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 65px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-Reg {
+    font-weight: 400;
+    font-size: 30px;
+    width: 397px;
+    height: 41px;
+}
+
+.perimeter-box {
+    /*font-size: 20px;*/
+}
+
+.name-surname {
+    padding-top: 46px;
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.name {
+    width: 220px;
+    margin-right: 30px;
+    height: 20px;
+    font-size: 20px;
+
+}
+
+.surname {
+    width: 252px;
+    height: 20px;
+    font-size: 20px;
+
+}
+
+.login-Reg {
+    width: 510px;
+    height: 20px;
+    margin-bottom: 25px;
+    font-size: 20px;
+
+}
+
+.password-Reg {
+    width: 510px;
+    height: 20px;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.button-Reg {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.border-button {
+    background-color: #2156BD;
+    border: none;
+    width: 500px;
+    height: 50px;
+}
+
+.btn-Reg {
+    border: none;
+    color: white;
+    background-color: #2156BD;
+    height: 49px;
+    width: 494px;
+    margin-left: -5px;
+}
+
+.text-Reg {
+    text-decoration: none;
+    color: #989898;
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+}
+
+.text-Reg:hover {
+    color: #7084d0;
+}
+

@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', serif;
+}
+
+.bg-color-edit {
+    background-color: #E5E5E5;
+}
+
+.main-edit {
+    width: 371px;
+    height: 480px;
+    background: white;
+    margin: auto;
+    padding-top: 62px;
+    padding-left: 36px;
+    padding-right: 34px;
+}
+
+.text-edit {
+    font-weight: 600;
+    font-size: 24px;
+    padding-bottom: 30px;
+}
+
+.password-edit {
+    color: #646464;;
+}
+
+.pass-edit {
+    width: 290px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+
+.btn-edit {
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    height: 50px;
+    margin-left: 25px;
+}
+
+.button-edit {
+    border: none;
+    background: #2156BD;
+}
+
+.button-change {
+    background: #2156BD;
+    color: white;
+    width: 250px;
+    border: none;
+    font-size: 18px;
+
+}
+
+.button-change:hover {
+    color: #80f0c9;
+}
